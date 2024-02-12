@@ -1,4 +1,5 @@
 # Rishu
 This is my first Git Repository.
 <br>
-Author - Rishav Bishen
+Author - Rishav Singh Rajput
+
